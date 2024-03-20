@@ -2,5 +2,6 @@ This is a hardware project for sudoku solver robot that has a rasberry pi with c
 
 The robot can work as sudokiu solver or cnc drawer for any image.
 
-Uploading 266659293-cc1064c8-de22-4c87-b2a7-ae2f918abdc6.mp4…
+
+https://github.com/yacoob-assi/Sudoku-solver-/assets/78143481/c358c434-bc39-4672-9c96-6e3d22e179b9
 
